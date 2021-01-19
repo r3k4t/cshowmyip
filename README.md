@@ -1,6 +1,6 @@
 # C Show My IP 
 
-![Screenshot from 2021-01-19 17-21-13](https://user-images.githubusercontent.com/69615463/105040409-01f9c700-5a8c-11eb-955b-b39f804ed8ec.png)
+![Screenshot from 2021-01-19 17-21-13](https://user-images.githubusercontent.com/69615463/105029583-b986dd00-5a7c-11eb-9c33-b2ce3327d555.png)
 
 
 <h6>Author : RKT</h6>
@@ -19,3 +19,9 @@ A simple C program which display our internet ip address from linux.
 + cd cshowmyip
 + gcc cshowmyip -o cshowmyip
 + sudo ./cshowmyip
+
+
+
+
+
+
